@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "cafaddict-thinkfirst",
-  "description": "thinkfirst plugin — 체계적 사고 과정을 강제하여 이해의 부채를 방지하는 워크플로우 플러그인",
+  "name": "cafaddict-claude-marketplace",
+  "description": "Claude Code 플러그인 마켓플레이스 — 생산성 향상을 위한 플러그인 모음",
   "owner": {
     "name": "hyunyul-cho"
   },
@@ -13,7 +13,7 @@
       "author": {
         "name": "hyunyul-cho"
       },
-      "source": "./",
+      "source": "./tf",
       "category": "productivity"
     }
   ]
